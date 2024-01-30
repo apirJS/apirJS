@@ -1,10 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Echa Apriliyanto
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)There
 ========================================================================================================================================
-
-Web Developer | AI Engineer
+### My name is Echa Apriliyanto, you can call me Echa
+### Web Developer | AI Engineer
 ---------------------------
 
-* 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [echa.dev](http://echa.dev)
+* 🌍  I'm based in Indonesia, Jawa Tengah
+* 🖥️  You can see my portfolio at [echa.dev](http://echa.dev)
 * ✉️  You can contact me at [apriliyantoecha1@gmail.com](mailto:apriliyantoecha1@gmail.com)
-* 🧠  I'm learning Go
