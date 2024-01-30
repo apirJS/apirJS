@@ -1,7 +1,6 @@
 Hi There 👋 
 ========================================================================================================================================
-### My name is Echa Apriliyanto, you can call me Echa
-### Web Developer | AI Engineer
+### My name is Echa Apriliyanto, you can call me Echa <br> I can do Web and Ai Development
 ---------------------------
 
 * 🌍  I'm based in Indonesia, Jawa Tengah
